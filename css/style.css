@@ -1,0 +1,73 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	font-weight: 400;
+	font-size: 35px;
+	margin: 50px 0 20px;
+	color: #c4c7c8;
+	text-align: center;
+}
+
+.box {
+	border: 1px solid white;
+	padding: 30px;
+	max-width: 600px;
+	background-image: url("http://static.tumblr.com/ajtokgb/i5dmpm32g/texture.png");
+	margin: 0 auto;	
+}
+
+.vpisi-stevilko {
+	font-weight: 300;
+	font-size: 35px;
+	color: white;	
+	padding: 20px 5px;
+}
+
+.form-control {
+	border-radius: 5px;
+	border: white;
+	color: #a5acb0;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	padding: 10px 0;
+	text-align: center;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-bottom: 15px;
+	font-weight: 300;
+	font-size: 13px;
+	border: white;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	color: #a5acb0;
+	padding: 10px 0;
+	font-size: 30px;
+
+}
+
+.btn:hover {
+	background-image: url("http://static.tumblr.com/ajtokgb/i5dmpm32g/texture.png");
+	color: white;
+	border: 1px solid white;
+}
+
+.krog {
+	max-width: 200px;
+	margin: 0 auto;
+}
+
+.form {
+	text-align: center;
+}
+
+.container {
+	margin-bottom: 15px;
+}
